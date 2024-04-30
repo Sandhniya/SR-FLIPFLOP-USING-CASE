@@ -78,4 +78,5 @@ endmodule
 ![Screenshot 2024-04-30 083555](https://github.com/Meenu2823/SR-FLIPFLOP-USING-CASE/assets/139416219/6e7aacd4-e29d-4740-b870-a150d33be579)
 
 **RESULTS**
+
 Thus,SR Flipflop is implemented using verilog and their functionality using their functional tables is validated.
